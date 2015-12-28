@@ -1,0 +1,10 @@
+#labels começo
+Primeiros passos para o desenvolvimento.
+
+Passos para o desenvolvimento.
+
+1) Escolher o sistema base;<br>
+2) Projetar o que é necessário para o sistema;<br>
+3) Selecionar extras e outra regalias para o sistema.<br>
+4) Selecionar um nome educacional para o sistema.<br>
+5) Selecionar o ambiente gráfico, bem como os aplicativos que deverão conter.<br>
